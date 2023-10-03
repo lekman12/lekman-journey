@@ -1,0 +1,8 @@
+Perjalanan Ke barat:
+- HTML
+- CSS
+- CSS3
+- Github
+- Framework
+- Javascript
+- PHP
